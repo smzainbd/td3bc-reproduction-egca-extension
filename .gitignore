@@ -1,0 +1,45 @@
+# Ignore everything by default; only keep what is required to run the project.
+*
+
+# Keep this file
+!.gitignore
+
+# Root run docs / deps
+!README.md
+!requirements.txt
+
+# Authors' reference code needed at import time
+!authors_code/
+!authors_code/TD3_BC.py
+!authors_code/utils.py
+!authors_code/main.py
+!authors_code/LICENSE
+
+# Our runnable code
+!our_code_tinkered/
+!our_code_tinkered/*.py
+
+# Experiment notebooks
+!notebooks/
+!notebooks/*.ipynb
+
+# Report figures and finished run outputs
+!figures/
+!figures/**
+!our_code_tinkered/results_a2/
+!our_code_tinkered/results_a2/**
+
+# Always ignore generated / local junk even under allowed folders
+**/__pycache__/
+**/*.pyc
+**/.ipynb_checkpoints/
+**/checkpoints/
+**/logs/
+**/*.pt
+**/*.log
+**/desktop.ini
+.DS_Store
+Thumbs.db
+.env
+.venv/
+venv/

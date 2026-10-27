@@ -1,0 +1,6 @@
+torch
+numpy
+h5py
+gymnasium[mujoco]>=1.0
+pandas
+matplotlib
