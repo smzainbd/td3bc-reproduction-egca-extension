@@ -1,7 +1,7 @@
 # COMP8221 Assignment 2 — Project Option 2 (Cutting-Edge Research in DRL)
 
 **Title:** Empirical Evaluation and Coordinate-Wise Credit Attribution in Minimalist Offline Reinforcement Learning  
-**Students:** Sudipta Saha Niloy (49139568), S M Zain (60801131)  
+**Students:** Sudipta Saha Niloy , S M Zain 
 **Selected Paper:** *A Minimalist Approach to Offline Reinforcement Learning* (Fujimoto & Gu, NeurIPS 2021\)
 
 ---
