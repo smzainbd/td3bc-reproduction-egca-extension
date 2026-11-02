@@ -9,8 +9,7 @@
 ## Folder layout
 
 ```
-2026S2_COMP8221_Assignment2_49139568_60801131_Niloy_Zain/
-├── 2026S2_COMP8221_Assignment2_49139568_60801131_Niloy_Zain_Final_Submission.docx
+td3bc-reproduction-egca-extension/
 ├── README.md
 ├── requirements.txt
 ├── authors_code/          # original Fujimoto & Gu TD3+BC reference files
